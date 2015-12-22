@@ -1,13 +1,14 @@
 # Addon: RES Comment Navigator Always Expanded
 This addon changes the RES Comment Navigator to always be expanded.
 
-I have included a small fix for Firefox so the bottom of this text isn't cut off: ![screenshot](https://i.imgur.com/hjhkeFY.png)
+I have included a small fix for Firefox so the bottom of this text isn't cut off:  
+![screenshot](https://i.imgur.com/hjhkeFY.png)
 
 ## Compatibility
 
-Optimized for: Naut 4.0
+*Optimized for:* Naut 4.0
 
-Confirmed compatibility:
+*Confirmed compatibility:*
 
 * Naut 3.2
 
