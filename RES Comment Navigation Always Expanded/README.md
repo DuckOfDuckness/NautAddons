@@ -14,4 +14,4 @@ Confirmed compatibility:
 
 ## Installation
 
-1. Copy the CSS from RESCNAE.css into the *bottom* of your stylesheet.
+1. Copy the CSS from ADDON.css into the *bottom* of your stylesheet.
