@@ -1,0 +1,8 @@
+/* --- Addon: RES Comment Navigator Always Expanded --- */
+
+    .res #REScommentNavToggle {
+        max-height: 17px;
+		max-width: 100%;
+	}
+
+/* --- End Addon --- */
