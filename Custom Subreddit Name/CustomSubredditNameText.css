@@ -1,0 +1,32 @@
+/* --- Addon: Custom Subreddit Name Text --- */
+
+    /* This is the one in the header */
+    #header .pagename a {
+        font-size: 0;
+        text-decoration: none;
+    }
+    
+        #header .pagename a:after {
+            content: "NAME";
+            font-size: 42px;
+        }
+        
+            #header .pagename a:hover:after {
+                text-decoration: underline;
+            }
+    
+    /* This is the one in the sidebar */
+    .titlebox .redditname a {
+        font-size: 0;
+    }
+
+        .titlebox .redditname a:after {
+            content: "NAME";
+            font-size: 19px;
+        }
+            
+            .titlebox .redditname a:hover:after {
+                text-decoration: underline;
+            }
+
+/* --- End Addon --- */
