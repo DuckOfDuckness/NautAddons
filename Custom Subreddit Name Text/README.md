@@ -5,5 +5,5 @@ The addon replaces both the header and sidebar title. You can also just replace 
 
 ## Installation
 
-1. Copy the CSS from CustomSubredditNameText.css into the *bottom* of your stylesheet.
+1. Copy the CSS from ADDON.css into the *bottom* of your stylesheet.
 2. Change all instances of `NAME` to your custom text.
